@@ -45,27 +45,31 @@ currently:
 
 ---
 
-## ⚡ Tech Stack & Tools
+<h2 align="center">⚡ Tech Stack & Tools</h2>
 
-<div align="center">
+<h3 align="center">💻 Programming Languages</h3>
 
-### Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,c" />
+<h3 align="center">🚀 Frameworks & Development</h3>
 
-### Frameworks & Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,tailwind" />
+<h3 align="center">🗄️ Databases & Backend</h3>
 
-### Databases & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase" />
+<h3 align="center">🛠️ Tools & Platforms</h3>
 
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,linux" />
+</p>
 
 ---
 
