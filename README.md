@@ -154,7 +154,6 @@ A project exploring personalized learning recommendations using AI.
 
 ---
 
-## 📊 GitHub Statistics
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
@@ -166,6 +165,22 @@ A project exploring personalized learning recommendations using AI.
 
 </div>
 
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ShaikhUzair7777/ShaikhUzair7777/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ShaikhUzair7777/ShaikhUzair7777/output/github-contribution-grid-snake.svg">
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/ShaikhUzair7777/ShaikhUzair7777/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 ## 🌐 Connect With Me
 
