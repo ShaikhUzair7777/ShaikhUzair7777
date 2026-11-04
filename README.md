@@ -158,17 +158,11 @@ A project exploring personalized learning recommendations using AI.
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShaikhUzair7777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ShaikhUzair7777&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Stats"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhUzair7777&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=ShaikhUzair7777&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikhUzair7777&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
 
 </div>
-
----
 
 ## 🌐 Connect With Me
 
