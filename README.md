@@ -1,4 +1,9 @@
-# 👋 Hey, I'm Shaikh Uzair!
+
+<div align="center">
+  <img src="github-banner.png" width="100%" alt="Shaikh Uzair Developer Banner"/>
+</div>
+
+<br/># 👋 Hey, I'm Shaikh Uzair!
 
 <div align="center">
 
